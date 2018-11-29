@@ -1,6 +1,6 @@
 # Accelerate
 
-An advanced free 3D game engine in development built on top of Vulkan, and GLFW. With the goal in mind of convention, speed, and high quality over configuration, as well as a means to serve as a solid alternative to production grade game engines.
+An advanced 3D game engine in development built on top of Vulkan, and GLFW. With the goal in mind of convention, speed, and high quality over configuration, as well as a means to serve as a solid alternative to production grade game engines.
 
 Conventions and beliefs in mind thus far
 
